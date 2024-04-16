@@ -1,0 +1,153 @@
+{
+    "data": {
+        "questions": [
+            {
+                "text": "<p>A crystal is made up of metal ions 'M<sub>1</sub>' and 'M<sub>2</sub>' and oxide ions. Oxide ions form a ccp lattice structure. The cation 'M<sub>1</sub>' occupies 50% of octahedral voids and the cation 'M<sub>2</sub>' occupies 12.5% of tetrahedral voids of oxide lattice. The oxidation numbers of 'M<sub>1</sub>' and 'M<sub>2</sub>' are, respectively.&nbsp;</p>",
+                "parent_question_text": null,
+                "linked_questions": null,
+                "people_got_right": 0,
+                "is_correct": 0,
+                "is_submitted": 0,
+                "last_response": "",
+                "explanation": null,
+                "your_time": 0,
+                "avg_time": 0,
+                "attempt_number": 0,
+                "shortDescription": "A crystal is made up of metal ions 'M1' and 'M2' and oxide ions. Oxide ions form",
+                "choices": [
+                    {
+                        "text": "+ 3, + 1",
+                        "choiceId": "A",
+                        "is_answer": false,
+                        "explanation": ""
+                    },
+                    {
+                        "text": "+ 4, + 2",
+                        "choiceId": "B",
+                        "is_answer": false,
+                        "explanation": ""
+                    },
+                    {
+                        "text": "+ 1, + 3",
+                        "choiceId": "C",
+                        "is_answer": false,
+                        "explanation": ""
+                    },
+                    {
+                        "text": "+ 2, + 4",
+                        "choiceId": "D",
+                        "is_answer": true,
+                        "explanation": ""
+                    }
+                ],
+                "solution": "<figure class=\"table\">\n <table>\n  <tbody>\n   <tr>\n    <td>&nbsp;</td>\n    <td>M<sub>1</sub></td>\n    <td>&nbsp;M<sub>2</sub></td>\n    <td>O</td>\n   </tr>\n   <tr>\n    <td>&nbsp;</td>\n    <td>50%</td>\n    <td>&nbsp;12.5%</td>\n    <td>ccp</td>\n   </tr>\n   <tr>\n    <td>&nbsp;</td>\n    <td>octahedral void&nbsp;</td>\n    <td>tetrahedral void</td>\n    <td>&nbsp;</td>\n   </tr>\n   <tr>\n    <td>&nbsp;</td>\n    <td>\n     <math>\n      <mrow>\n       <mfrac>\n        <mrow>\n         <mn>\n          50\n         </mn>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n        </mrow>\n        <mrow>\n         <mn>\n          100\n         </mn>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n        </mrow>\n       </mfrac>\n       <mo>\n        ×\n       </mo>\n       <mn>\n        4\n       </mn>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n      </mrow>\n     </math></td>\n    <td>\n     <math>\n      <mrow>\n       <mfrac>\n        <mrow>\n         <mn>\n          12.5\n         </mn>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n        </mrow>\n        <mrow>\n         <mn>\n          100\n         </mn>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n        </mrow>\n       </mfrac>\n       <mo>\n        ×\n       </mo>\n       <mn>\n        8\n       </mn>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n      </mrow>\n     </math></td>\n    <td>4</td>\n   </tr>\n   <tr>\n    <td>&nbsp;</td>\n    <td>2</td>\n    <td>1</td>\n    <td>4</td>\n   </tr>\n   <tr>\n    <td>Charge</td>\n    <td>2x</td>\n    <td>1y</td>\n    <td>4 × 2</td>\n   </tr>\n   <tr>\n    <td>2x + y = 8<br>x = 2<br>y = 4</td>\n    <td>&nbsp;</td>\n    <td>&nbsp;</td>\n    <td>&nbsp;</td>\n   </tr>\n  </tbody>\n </table>\n</figure>",
+                "underlying_concept": "The total charge on cations in an ionic solid must be equal in magnitude to the total negative charge on anions.",
+                "new_possible_concepts": "Oxide ions form ccp. So, there are 4 oxide ions per unit cell. 50% octahedral voids are occupied by M<sub>1</sub> cations. So there are two M<sub>1</sub> cations per unit cell 12.5% tetrahedral voids are occupied by M<sub>2</sub> cations. So, there is only one M<sub>2</sub> cation per unit cell. By using the concept of charge neutrality, charge on M<sub>1</sub> is +2 and charge on M<sub>2</sub> is +4."
+            },
+            {
+                "text": "A diatomic molecule X<sub>2</sub> has a body-centred cubic (bcc) structure with a cell edge of 300 pm. The density of the molecule is 6.17 g cm<sup>–3</sup>. The number of molecules present in 200 g of X<sub>2</sub> is :\n<br> (Avogadro constant (N<sub>A</sub>) = 6 × 10<sup>23</sup> mol<sup>–1</sup>)",
+                "choices": [
+                    {
+                        "text": "40 N<sub>A</sub>",
+                        "choiceId": "A",
+                        "is_answer": false,
+                        "explanation": ""
+                    },
+                    {
+                        "text": "4 N<sub>A</sub>",
+                        "choiceId": "B",
+                        "is_answer": true,
+                        "explanation": ""
+                    },
+                    {
+                        "text": "2 N<sub>A</sub>",
+                        "choiceId": "C",
+                        "is_answer": false,
+                        "explanation": ""
+                    },
+                    {
+                        "text": "8 N<sub>A</sub>",
+                        "choiceId": "D",
+                        "is_answer": false,
+                        "explanation": ""
+                    }
+                ],
+                "solution": "<math>\n <mrow>\n  <mi>\n   d\n  </mi>\n  <mo>\n   =\n  </mo>\n  <mfrac>\n   <mrow>\n    <mi>\n     Z\n    </mi>\n    <mo>\n     ×\n    </mo>\n    <mi>\n     M\n    </mi>\n   </mrow>\n   <mrow>\n    <msup>\n     <mi>\n      a\n     </mi>\n     <mn>\n      3\n     </mn>\n    </msup>\n    <mo>\n     ×\n    </mo>\n    <mtext>\n      \n    </mtext>\n    <msub>\n     <mi>\n      N\n     </mi>\n     <mi>\n      A\n     </mi>\n    </msub>\n   </mrow>\n  </mfrac>\n </mrow>\n</math>\n<br> \n<math>\n <mrow>\n  <mn>\n   6.17\n  </mn>\n  <mo>\n   =\n  </mo>\n  <mfrac>\n   <mrow>\n    <mn>\n     2\n    </mn>\n    <mo>\n     ×\n    </mo>\n    <mi>\n     M\n    </mi>\n   </mrow>\n   <mrow>\n    <msup>\n     <mrow>\n      <mo stretchy=\"false\">\n       (\n      </mo>\n      <mn>\n       3\n      </mn>\n      <mo>\n       ×\n      </mo>\n      <msup>\n       <mrow>\n        <mn>\n         10\n        </mn>\n       </mrow>\n       <mrow>\n        <mo>\n         −\n        </mo>\n        <mn>\n         8\n        </mn>\n       </mrow>\n      </msup>\n      <mo stretchy=\"false\">\n       )\n      </mo>\n     </mrow>\n     <mn>\n      3\n     </mn>\n    </msup>\n    <mo>\n     ×\n    </mo>\n    <mn>\n     6\n    </mn>\n    <mo>\n     ×\n    </mo>\n    <msup>\n     <mrow>\n      <mn>\n       10\n      </mn>\n     </mrow>\n     <mrow>\n      <mn>\n       23\n      </mn>\n     </mrow>\n    </msup>\n   </mrow>\n  </mfrac>\n </mrow>\n</math>\n<br> (For BCC Z = 2)\n<br> M = 50 g/mol\n<br> in 200 g, 4 moles of X<sub>2</sub> is present",
+                "underlying_concept": "Density of unit cell = \n<math>\n <mrow>\n  <mfrac>\n   <mrow>\n    <mi>\n     Z\n    </mi>\n    <mo>\n     ×\n    </mo>\n    <mi>\n     M\n    </mi>\n   </mrow>\n   <mrow>\n    <msup>\n     <mi>\n      a\n     </mi>\n     <mn>\n      3\n     </mn>\n    </msup>\n    <mo>\n     ×\n    </mo>\n    <msub>\n     <mi>\n      N\n     </mi>\n     <mi>\n      A\n     </mi>\n    </msub>\n   </mrow>\n  </mfrac>\n </mrow>\n</math>\n<br> Z = number of atoms in unit cell\n<br> M = molecular mass of solid\n<br> a = edge length of unit cell",
+                "new_possible_concepts": "For a BCC unit cell Z = 2\n<br> Number of atoms in X g of solid = \n<math display=\"block\">\n <mrow>\n  <mfrac>\n   <mi>\n    X\n   </mi>\n   <mi>\n    M\n   </mi>\n  </mfrac>\n  <mo>\n   ×\n  </mo>\n  <msub>\n   <mi>\n    N\n   </mi>\n   <mi>\n    A\n   </mi>\n  </msub>\n </mrow>\n</math>"
+            },
+            {
+                "text": "An element crystallises in a face-centred cubic (fcc) unit cell with cell edge a. The distance between the centres of two nearest octahedral voids in the crystal lattice is",
+                "choices": [
+                    {
+                        "text": "<i>a </i>"
+                    },
+                    {
+                        "text": "<math>\n <mrow>\n  <msqrt>\n   <mn>\n    2\n   </mn>\n  </msqrt>\n  <mi>\n   a\n  </mi>\n </mrow>\n</math>"
+                    },
+                    {
+                        "text": "<math>\n <mrow>\n  <mfrac>\n   <mi>\n    a\n   </mi>\n   <mrow>\n    <msqrt>\n     <mn>\n      2\n     </mn>\n    </msqrt>\n   </mrow>\n  </mfrac>\n </mrow>\n</math>"
+                    },
+                    {
+                        "text": "<math>\n <mrow>\n  <mfrac>\n   <mi>\n    a\n   </mi>\n   <mn>\n    2\n   </mn>\n  </mfrac>\n </mrow>\n</math>"
+                    }
+                ],
+                "solution": "Octahedral void in fcc is present at edge centre and body centre.\n<br> \n<img width=\"305\" height=\"156\" id=\"Picture 561\" src=\"https://d3vo8rtp78h2dc.cloudfront.net/lcmsnode/Image/1614875739581/JM20CHEMimg297.jpg\">\n<br> Minimum distance between two nearest octahedral void is \n<math>\n <mrow>\n  <mo>\n   =\n  </mo>\n  <msqrt>\n   <mrow>\n    <msup>\n     <mrow>\n      <mfenced>\n       <mrow>\n        <mfrac>\n         <mi>\n          a\n         </mi>\n         <mn>\n          2\n         </mn>\n        </mfrac>\n       </mrow>\n      </mfenced>\n     </mrow>\n     <mn>\n      2\n     </mn>\n    </msup>\n    <mo>\n     +\n    </mo>\n    <msup>\n     <mrow>\n      <mfenced>\n       <mrow>\n        <mfrac>\n         <mi>\n          a\n         </mi>\n         <mn>\n          2\n         </mn>\n        </mfrac>\n       </mrow>\n      </mfenced>\n     </mrow>\n     <mn>\n      2\n     </mn>\n    </msup>\n   </mrow>\n  </msqrt>\n  <mo>\n   =\n  </mo>\n  <mfrac>\n   <mi>\n    a\n   </mi>\n   <mrow>\n    <msqrt>\n     <mn>\n      2\n     </mn>\n    </msqrt>\n   </mrow>\n  </mfrac>\n </mrow>\n</math>",
+                "underlying_concept": "Relationship between the radius of atom, edge length of unit cell and position of voids.",
+                "new_possible_concepts": "<p>Octahedral voids (OV) are present at all the edge centres and body centre.</p>\n<p>Distance between two OV present at edge centres =&nbsp;\n <math>\n  <mrow>\n   <mfrac>\n    <mi>\n     a\n    </mi>\n    <mrow>\n     <msqrt>\n      <mn>\n       2\n      </mn>&nbsp;&nbsp;&nbsp; \n     </msqrt> \n    </mrow> \n   </mfrac> \n  </mrow> \n </math> </p>"
+            },
+            {
+                "text": "<p>An element with molar mass 2.7 × 10<sup>–2</sup><sub> </sub>kg mol<sup>–1</sup> forms a cubic unit cell with edge length 405 pm. If its density is 2.7 × 10<sup>3</sup> kg m<sup>–3</sup>, the radius of the element is approximately _____ × 10<sup>–11</sup> m (to the nearest integer).&nbsp;</p>",
+                "solution": "<p>M, Molar mass of an element = 27 gm mol<sup>–1</sup> , edge length of a cubic unit cell = 405 pm<br>= 4.05 × 10<sup>–8</sup> cm<br>d, density of the element = 2.7 gm/cc<br>\n <math>\n  <mrow>\n   <mi>\n    d\n   </mi>\n   <mo>\n    =\n   </mo>\n   <mfrac>\n    <mrow>\n     <mi>\n      Z\n     </mi>\n     <mo>\n      ×\n     </mo>\n     <mi>\n      M\n     </mi>&nbsp;\n    </mrow>\n    <mrow>\n     <msub>\n      <mi>\n       N\n      </mi>\n      <mi>\n       A\n      </mi>&nbsp;\n     </msub>\n     <mo>\n      ×\n     </mo>\n     <msup>\n      <mrow>\n       <mo stretchy=\"false\">\n        (\n       </mo>\n       <mi>\n        a\n       </mi>\n       <mo stretchy=\"false\">\n        )\n       </mo>&nbsp;\n      </mrow>\n      <mn>\n       3\n      </mn>&nbsp;\n     </msup>\n    </mrow>\n   </mfrac>\n  </mrow>\n </math><br>\n <math>\n  <mrow>\n   <mn>\n    2.7\n   </mn>\n   <mo>\n    =\n   </mo>\n   <mfrac>\n    <mrow>\n     <mi>\n      Z\n     </mi>\n     <mo>\n      ×\n     </mo>\n     <mn>\n      27\n     </mn>&nbsp;\n    </mrow>\n    <mrow>\n     <mn>\n      6\n     </mn>\n     <mo>\n      ×\n     </mo>\n     <msup>\n      <mrow>\n       <mn>\n        10\n       </mn>&nbsp;\n      </mrow>\n      <mrow>\n       <mn>\n        23\n       </mn>&nbsp;\n      </mrow>\n     </msup>\n     <msup>\n      <mrow>\n       <mo stretchy=\"false\">\n        (\n       </mo>\n       <mn>\n        4.05\n       </mn>\n       <mo>\n        ×\n       </mo>\n       <msup>\n        <mrow>\n         <mn>\n          10\n         </mn>&nbsp;\n        </mrow>\n        <mrow>\n         <mo>\n          −\n         </mo>\n         <mn>\n          8\n         </mn>&nbsp;\n        </mrow>\n       </msup>\n       <mo stretchy=\"false\">\n        )\n       </mo>&nbsp;\n      </mrow>\n      <mn>\n       3\n      </mn>&nbsp;\n     </msup>\n    </mrow>\n   </mfrac>\n   <mo>\n    ;\n   </mo>\n   <mtext>\n    &nbsp;Z&nbsp;=&nbsp;4\n   </mtext>&nbsp;\n  </mrow>\n </math><br>The element has fcc unit cell<br>∴&nbsp;\n <math>\n  <mrow>\n   <msqrt>\n    <mn>\n     2\n    </mn>&nbsp;\n   </msqrt>\n   <mtext>\n     \n   </mtext>\n   <mi>\n    a\n   </mi>\n   <mo>\n    =\n   </mo>\n   <mn>\n    4\n   </mn>\n   <mi>\n    r\n   </mi>\n   <mo>\n    ;\n   </mo>\n   <mtext>\n     \n   </mtext>\n   <mtext>\n     \n   </mtext>\n   <mi>\n    r\n   </mi>\n   <mo>\n    =\n   </mo>\n   <mfrac>\n    <mrow>\n     <mn>\n      1.414\n     </mn>\n     <mo>\n      ×\n     </mo>\n     <mn>\n      405\n     </mn>&nbsp;\n    </mrow>\n    <mn>\n     4\n    </mn>&nbsp;\n   </mfrac>\n   <mo>\n    ≃\n   </mo>\n   <mn>\n    143\n   </mn>\n   <mtext>\n     \n   </mtext>\n   <mtext>\n     \n   </mtext>\n   <mi>\n    p\n   </mi>\n   <mi>\n    m\n   </mi>&nbsp;\n  </mrow>\n </math><br>= 143 × 10<sup>–12 </sup>m</p>"
+            },
+            {
+                "text": "<p>How much amount of NaCl (in g) should be added to 600 g of water (ρ= 1.00 g/mL) to decrease the freezing point of water to –0.2°C? ________. (The freezing point depression constant for water = 2 K kg mol<sup>–1</sup>)&nbsp;</p>",
+                "solution": "<p>ΔT<sub>f</sub> = 0.2°C&nbsp;<br>∵ ΔT<sub>f</sub> = ik<sub>f</sub>\n <math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>\n   ·\n  </mo>&nbsp;&nbsp; \n </math>m&nbsp;<br>i = 2 for NaCl&nbsp;<br>∴ 0.2 =&nbsp;\n <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mn>\n   2\n  </mn><mo>\n   ×\n  </mo><mn>\n   2\n  </mn><mo>\n   ×\n  </mo><mfrac>\n   <mrow>\n    <msub>\n     <mi mathvariant=\"normal\">\n      W\n     </mi>\n     <mi>\n      NaCl\n     </mi>&nbsp;&nbsp; \n    </msub>\n    <mo>\n     ×\n    </mo>\n    <mn>\n     1000\n    </mn>&nbsp;&nbsp; \n   </mrow>\n   <mrow>\n    <mn>\n     58\n    </mn>\n    <mo>\n     .5\n    </mo>\n    <mo>\n     ×\n    </mo>\n    <mn>\n     600\n    </mn>&nbsp;&nbsp; \n   </mrow> \n  </mfrac> \n </math><br>\n <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>\n   ⇒\n  </mo><mtext>\n     \n  </mtext><msub>\n   <mi mathvariant=\"normal\">\n    W\n   </mi>\n   <mi>\n    NaCl\n   </mi>&nbsp;&nbsp; \n  </msub><mo>\n   =\n  </mo><mfrac>\n   <mrow>\n    <mn>\n     58\n    </mn>\n    <mo>\n     .5\n    </mo>\n    <mo>\n     ×\n    </mo>\n    <mn>\n     600\n    </mn>\n    <mo>\n     ×\n    </mo>\n    <mn>\n     0\n    </mn>\n    <mo>\n     .2\n    </mo>&nbsp;&nbsp; \n   </mrow>\n   <mrow>\n    <mn>\n     4\n    </mn>\n    <mo>\n     ×\n    </mo>\n    <mn>\n     1000\n    </mn>&nbsp;&nbsp; \n   </mrow> \n  </mfrac> \n </math><br>= 1.755&nbsp;<br>= 1.76 </p>",
+                "underlying_concept": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">Depression </span>in freezing point depends on number of particles.</p>",
+                "new_possible_concepts": "<p>•&nbsp;\n <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msub>\n   <mi>\n    ΔT\n   </mi>\n   <mi mathvariant=\"normal\">\n    f\n   </mi>&nbsp;&nbsp; \n  </msub><mo>\n   =\n  </mo><mo>\n   (\n  </mo><mi mathvariant=\"normal\">\n   T\n  </mi><mo>\n   °\n  </mo><mo>\n   −\n  </mo><msub>\n   <mi mathvariant=\"normal\">\n    T\n   </mi>\n   <mi mathvariant=\"normal\">\n    s\n   </mi>&nbsp;&nbsp; \n  </msub><mo>\n   )\n  </mo>&nbsp;&nbsp; \n </math><br>&nbsp; T° = freezing point of pure solvent&nbsp;<br>&nbsp; T<sub>S</sub> = freezing point of pure solution.&nbsp;<br>• Use the relationship&nbsp;<br>&nbsp; &nbsp;\n <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msub>\n   <mi>\n    ΔT\n   </mi>\n   <mi mathvariant=\"normal\">\n    f\n   </mi>&nbsp;&nbsp; \n  </msub><mo>\n   =\n  </mo><msub>\n   <mi>\n    ik\n   </mi>\n   <mi mathvariant=\"normal\">\n    f\n   </mi>&nbsp;&nbsp; \n  </msub><mo>\n   ×\n  </mo><mfrac>\n   <mrow>\n    <msub>\n     <mtext>\n      W\n     </mtext>\n     <mi>\n      NaCl\n     </mi>&nbsp;&nbsp; \n    </msub>\n    <mo>\n     ×\n    </mo>\n    <mn>\n     1000\n    </mn>&nbsp;&nbsp; \n   </mrow>\n   <mrow>\n    <msub>\n     <mi mathvariant=\"normal\">\n      W\n     </mi>\n     <mrow>\n      <msub>\n       <mi mathvariant=\"normal\">\n        H\n       </mi>\n       <mn>\n        2\n       </mn>&nbsp;&nbsp; \n      </msub>\n      <mi mathvariant=\"normal\">\n       O\n      </mi>&nbsp;&nbsp; \n     </mrow> \n    </msub>\n    <mtext>\n     (gm)\n    </mtext>&nbsp;&nbsp; \n   </mrow> \n  </mfrac> \n </math><br>&nbsp; i = van't Hoff factor&nbsp;<br>&nbsp; k<sub>f</sub> = Freezing point depression constant or molal depression constant or cryoscopic &nbsp; &nbsp;constant&nbsp;<br>• For NaCl i = 2 </p>"
+            },
+            {
+                "text": "A cylinder containing an ideal gas (0.1 mol of 1.0 dm<sup>3</sup>) is in thermal equilibrium with a large volume of 0.5 molal aqueous solution of ethylene glycol at its freezing point. If the stoppers S<sub>1</sub> and S<sub>2</sub> (as shown in the figure) are suddenly withdrawn, the volume of the gas in litres after equilibrium is achieved will be ________ .\n<br> (Given, K<sub>f</sub> (water) = 2.0 K kg mol<sup>–1</sup>, R = 0.08 dm<sup>3</sup> atm K<sup>–1</sup> mol<sup>–1</sup>)\n<br> \n<img width=\"240\" height=\"184\" src=\"https://d3vo8rtp78h2dc.cloudfront.net/lcmsnode/Image/1614875739545/JM20CHEMimg079.jpg\">",
+                "solution": "<p>For aqueous solution&nbsp; <br>ΔT <sub>f</sub> = K <sub>f</sub>.m = 2 × 0.5&nbsp; <br>∴ Temperature of solution = –1°C = 272 K&nbsp; <br>∴ Final volume of ideal gas =&nbsp; \n <math> <mfrac> \n   <mi>\n    nRT\n   </mi> \n   <mi mathvariant=\"normal\">\n    P\n   </mi> \n  </mfrac> \n </math> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =&nbsp; \n <math> <mfrac> \n   <mrow> \n    <mn>\n     0.1\n    </mn> \n    <mo>\n     ×\n    </mo> \n    <mn>\n     0.08\n    </mn> \n    <mo>\n     ×\n    </mo> \n    <mn>\n     272\n    </mn> \n   </mrow> \n   <mn>\n    1\n   </mn> \n  </mfrac> \n </math> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n <math> <mo>\n   ≈\n  </mo>&nbsp; \n </math>2.18 L </p>"
+            },
+            {
+                "text": "<p>10.30 mg of O<sub>2</sub> is dissolved into a litre of sea water of density 1.03 g/mL. The concentration of O<sub>2</sub> in ppm is __________ .</p>",
+                "solution": "<p>\n <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>\n   ppm\n  </mi>&nbsp;<mtext>\n     \n  </mtext><mi>\n   of\n  </mi>&nbsp;<mtext>\n     \n  </mtext><msub>\n   <mi mathvariant=\"normal\">\n    O\n   </mi>&nbsp;\n   <mn>\n    2\n   </mn>&nbsp;\n  </msub><mtext>\n     \n  </mtext><mo>\n   =\n  </mo>&nbsp;<mfrac>\n   <mrow>\n    <mi>\n     wt\n    </mi>&nbsp;\n    <mo>\n     .\n    </mo>&nbsp;\n    <mtext>\n       \n    </mtext>\n    <mi>\n     of\n    </mi>&nbsp;\n    <mtext>\n       \n    </mtext>\n    <msub>\n     <mi mathvariant=\"normal\">\n      O\n     </mi>&nbsp;\n     <mn>\n      2\n     </mn>&nbsp;\n    </msub>\n   </mrow>\n   <mrow>\n    <mi>\n     wt\n    </mi>&nbsp;\n    <mo>\n     .\n    </mo>&nbsp;\n    <mtext>\n       \n    </mtext>\n    <mi>\n     of\n    </mi>&nbsp;\n    <mtext>\n       \n    </mtext>\n    <msub>\n     <mi mathvariant=\"normal\">\n      H\n     </mi>&nbsp;\n     <mn>\n      2\n     </mn>&nbsp;\n    </msub>\n    <mi mathvariant=\"normal\">\n     O\n    </mi>&nbsp;\n   </mrow>\n  </mfrac><mtext>\n    \n  </mtext><mo>\n   ×\n  </mo>&nbsp;<mtext>\n     \n  </mtext><msup>\n   <mn>\n    10\n   </mn>&nbsp;\n   <mn>\n    6\n   </mn>&nbsp;\n  </msup>\n </math>&nbsp;=&nbsp;&nbsp;\n <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n   <mrow>\n    <mn>\n     10\n    </mn>&nbsp;\n    <mo>\n     .3\n    </mo>&nbsp;\n    <mtext>\n       \n    </mtext>\n    <mi>\n     mg\n    </mi>&nbsp;\n   </mrow>\n   <mrow>\n    <mn>\n     1\n    </mn>&nbsp;\n    <mo>\n     .03\n    </mo>&nbsp;\n    <mo>\n     ×\n    </mo>&nbsp;\n    <msup>\n     <mn>\n      10\n     </mn>&nbsp;\n     <mn>\n      6\n     </mn>&nbsp;\n    </msup>\n    <mtext>\n       \n    </mtext>\n    <mi>\n     mg\n    </mi>&nbsp;\n   </mrow>\n  </mfrac><mtext>\n     \n  </mtext><mo>\n   ×\n  </mo>&nbsp;<msup>\n   <mn>\n    10\n   </mn>&nbsp;\n   <mn>\n    6\n   </mn>&nbsp;\n  </msup>\n </math>&nbsp;= 10 ppm</p>",
+                "underlying_concept": "One ppm is 1 parts in per million.",
+                "new_possible_concepts": "<p>Parts per million also can be expressed as (mg/L) milligram per litre. (density = 1 g/mL)&nbsp; <br>This measurement is the mass of a chemical or contaminate (in mg) per L volume of water.&nbsp; <br>Conc. Of O <sub>2</sub> (in ppm) =&nbsp; \n <math> <mfrac> \n   <mrow> \n    <msub> \n     <mi mathvariant=\"normal\">\n      w\n     </mi> \n     <msub> \n      <mi mathvariant=\"normal\">\n       O\n      </mi> \n      <mn>\n       2\n      </mn> \n     </msub> \n    </msub> \n    <mtext>\n     (in&nbsp;mg)\n    </mtext> \n   </mrow> \n   <mrow> \n    <msub> \n     <mi mathvariant=\"normal\">\n      w\n     </mi> \n     <mrow> \n      <msub> \n       <mi mathvariant=\"normal\">\n        H\n       </mi> \n       <mn>\n        2\n       </mn> \n      </msub> \n      <mi mathvariant=\"normal\">\n       O\n      </mi> \n     </mrow> \n    </msub> \n    <mtext>\n     (in&nbsp;mg)\n    </mtext> \n   </mrow> \n  </mfrac> <mo>\n   ×\n  </mo> <msup> \n   <mn>\n    10\n   </mn> \n   <mn>\n    6\n   </mn> \n  </msup> \n </math> </p>"
+            },
+            {
+                "text": "At 35°C, the vapour pressure of CS<sub>2</sub> is 512 mm Hg and that of acetone is 344 mm Hg. A solution of CS<sub>2</sub> in acetone has a total vapour pressure of 600 mm Hg. The false statement amongst the following is",
+                "choices": [
+                    {
+                        "text": "<p>Raoult's law is not obeyed by this system</p>",
+                        "choiceId": "A",
+                        "is_answer": false,
+                        "explanation": ""
+                    },
+                    {
+                        "text": "A mixture of 100 mL CS<sub>2</sub> and 100 mL acetone has a volume &lt; 200 mL",
+                        "choiceId": "B",
+                        "is_answer": true,
+                        "explanation": ""
+                    },
+                    {
+                        "text": "Heat must be absorbed in order to produce the solution at 35°C",
+                        "choiceId": "C",
+                        "is_answer": false,
+                        "explanation": ""
+                    },
+                    {
+                        "text": "CS<sub>2</sub> and acetone are less attracted to each other than to themselves",
+                        "choiceId": "D",
+                        "is_answer": false,
+                        "explanation": ""
+                    }
+                ],
+                "solution": "<p>Since the vapour pressure of the solution is greater than individual vapour pressure of both pure components, the solution shows a positive deviation from Raoult's law.</p>",
+                "underlying_concept": "<p>• Real solutions and positive deviation from Raoult's law.&nbsp;<br>• Characteristics of solution showing positive deviation from Raoult's law.</p>",
+                "new_possible_concepts": "<p>• When observed total vapour pressure is more than expected (i.e.,&nbsp;\n <math>\n  <mrow>\n   <msub>\n    <mi>\n     P\n    </mi>&nbsp;\n    <mi>\n     T\n    </mi>&nbsp;\n   </msub>\n   <mo>\n    =\n   </mo>&nbsp;\n   <msub>\n    <mi>\n     X\n    </mi>&nbsp;\n    <mi>\n     A\n    </mi>&nbsp;\n   </msub>\n   <msubsup>\n    <mi>\n     P\n    </mi>&nbsp;\n    <mi>\n     A\n    </mi>&nbsp;\n    <mi>\n     o\n    </mi>&nbsp;\n   </msubsup>\n   <mo>\n    +\n   </mo>&nbsp;\n   <msub>\n    <mi>\n     X\n    </mi>&nbsp;\n    <mi>\n     B\n    </mi>&nbsp;\n   </msub>\n   <msubsup>\n    <mi>\n     P\n    </mi>&nbsp;\n    <mi>\n     B\n    </mi>&nbsp;\n    <mi>\n     o\n    </mi>&nbsp;\n   </msubsup>\n  </mrow>\n </math>&nbsp;) then the solution shows positive deviation from Raoults law.&nbsp;<br>• Characteristics of solution showing positive are&nbsp;<br>(i)&nbsp;\n <math>\n  <mrow>\n   <munder>\n    <mrow>\n     <mi>\n      Δ\n     </mi>&nbsp;\n     <mi>\n      H\n     </mi>&nbsp;\n    </mrow>\n    <mrow>\n     <mi>\n      m\n     </mi>&nbsp;\n     <mi>\n      i\n     </mi>&nbsp;\n     <mi>\n      x\n     </mi>&nbsp;\n    </mrow>\n   </munder>\n   <mo>\n    &gt;\n   </mo>&nbsp;\n   <mn>\n    0\n   </mn>&nbsp;\n  </mrow>\n </math><br>(endothermic)&nbsp;<br>(ii)&nbsp;\n <math>\n  <mrow>\n   <munder>\n    <mrow>\n     <mi>\n      Δ\n     </mi>&nbsp;\n     <mi>\n      V\n     </mi>&nbsp;\n    </mrow>\n    <mrow>\n     <mi>\n      m\n     </mi>&nbsp;\n     <mi>\n      i\n     </mi>&nbsp;\n     <mi>\n      x\n     </mi>&nbsp;\n    </mrow>\n   </munder>\n   <mo>\n    &gt;\n   </mo>&nbsp;\n   <mn>\n    0\n   </mn>&nbsp;\n  </mrow>\n </math><br>(More volume of solution than expected from sum of individual volumes)&nbsp;<br>(iii)&nbsp;\n <math>\n  <mrow>\n   <msub>\n    <mi>\n     P\n    </mi>&nbsp;\n    <mi>\n     T\n    </mi>&nbsp;\n   </msub>\n   <mo stretchy=\"false\">\n    (\n   </mo>&nbsp;\n   <mi>\n    o\n   </mi>&nbsp;\n   <mi>\n    b\n   </mi>&nbsp;\n   <mi>\n    s\n   </mi>&nbsp;\n   <mo stretchy=\"false\">\n    )\n   </mo>&nbsp;\n   <mo>\n    &gt;\n   </mo>&nbsp;\n   <msub>\n    <mi>\n     X\n    </mi>&nbsp;\n    <mi>\n     A\n    </mi>&nbsp;\n   </msub>\n   <msubsup>\n    <mi>\n     P\n    </mi>&nbsp;\n    <mi>\n     A\n    </mi>&nbsp;\n    <mi>\n     o\n    </mi>&nbsp;\n   </msubsup>\n   <mo>\n    +\n   </mo>&nbsp;\n   <msub>\n    <mi>\n     X\n    </mi>&nbsp;\n    <mi>\n     B\n    </mi>&nbsp;\n   </msub>\n   <msubsup>\n    <mi>\n     P\n    </mi>&nbsp;\n    <mi>\n     B\n    </mi>&nbsp;\n    <mi>\n     o\n    </mi>&nbsp;\n   </msubsup>\n  </mrow>\n </math><br>(iv) Poor attractions between the components of solution.&nbsp;<br>(v)&nbsp;\n <math>\n  <mrow>\n   <munder>\n    <mrow>\n     <mi>\n      Δ\n     </mi>&nbsp;\n     <mi>\n      S\n     </mi>&nbsp;\n    </mrow>\n    <mrow>\n     <mi>\n      m\n     </mi>&nbsp;\n     <mi>\n      i\n     </mi>&nbsp;\n     <mi>\n      x\n     </mi>&nbsp;\n    </mrow>\n   </munder>\n   <mo>\n    &gt;\n   </mo>&nbsp;\n   <mn>\n    0\n   </mn>&nbsp;\n  </mrow>\n </math></p>"
+            }
+        ]
+    }
+}
